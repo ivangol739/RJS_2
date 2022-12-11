@@ -1,4 +1,4 @@
-name: Pull
+name: RJS2
 
 on: [push, pull_request]
 
